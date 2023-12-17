@@ -1,0 +1,55 @@
+.head2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 110px;
+    position: absolute;
+    top: 70px;
+    border: solid #6666663b 2.5px;
+}
+.h2s1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.h2s1s{
+    background: rgb(247, 244, 244);
+    font-family: 'Fira Mono', 'Andale Mono', 'Consolas', monospace;
+    font-size: 16px;
+    letter-spacing: 0px;
+    border: none;
+    height: 50px;
+    padding-left: 10px;
+    width: 950px;
+    position: absolute;
+    top: 23px;
+    left: 150px;
+}
+.h2s1s:hover{
+    border: solid black 1px;
+}
+.h2s1b{
+    height: 50px;
+    width: 120px;
+    position: absolute;
+    top: 23px;
+    left: 1098px;
+    background-color: black;
+    color: white;
+}
+.h2s2b1{
+    height: 50px;
+    width: 120px;
+    background-color: white;
+    border: solid #1b1b1b5d;
+}
+.h2s2b2{
+    height: 50px;
+    width: 120px;
+    background-color: white;
+    border: white 0.2px;
+}
+.h2s2{
+    position: absolute;
+    top: 23px;
+    right: 30px;
+}

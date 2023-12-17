@@ -1,0 +1,57 @@
+.head5{
+    width: auto;
+    height: 350px;
+    border: solid rgba(77, 75, 75, 0.562);
+    margin-top: 5%;
+}
+.h5c1{
+    display: inline-block;
+    margin-left: 3%;
+    margin-top: 5%;
+}
+img[alt="npml"]{
+    height: 60px;
+    display: block;
+    margin-top: 5%;
+}
+img[alt="git"]{
+    height: 60px;
+    margin-top: 40%;
+}
+.com1{
+    display: block;
+    font-size: 17px;
+    letter-spacing: 1.3px;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.com2{
+    display: block;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.7);
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    text-align: left;
+}
+.com3{
+    display: inline-block;
+    position: relative;
+    top: 10px;
+}
+.h5c2{
+    margin-left: 10%;
+}
+.h5c3{
+    margin-left: 20%;
+    position: relative;
+    top: -30px;
+}
+.h5c4{
+    margin-left: 20%;
+}
+.hcf{
+    height: 10px;
+    position: relative;
+    bottom: -161px;
+}
